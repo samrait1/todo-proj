@@ -1,0 +1,12 @@
+body{
+  background-color:bisque;
+  text-align: center;
+}
+.remove{
+  color: white;
+  background-color:aqua;
+  width: 70px;
+  height: 30px;
+  border: none;
+  margin-left: 10px;
+}
